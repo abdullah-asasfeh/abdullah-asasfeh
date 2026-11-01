@@ -11,6 +11,7 @@ I build end-to-end AI applications — from data cleaning and model training to 
 
 | Project | What it does | Stack |
 |---|---|---|
+| 📡 [**Telecom Customer Churn Prediction**](https://github.com/abdullah-asasfeh/telecom-churn-prediction) | Predicts which customers will cancel, explains why for each one, and suggests a retention action. Calling the top 20% riskiest customers reaches **50% of churners** (2.5× lift), ROC-AUC **0.845**. | scikit-learn · Explainable ML · Streamlit |
 | 🍅 [**Tomato Leaf Disease Classifier**](https://github.com/abdullah-asasfeh/tomato-leaf-disease) | Diagnoses 10 tomato-leaf conditions from a photo, with Grad-CAM heatmaps showing *why*. Fine-tuned on field photos: field accuracy **30% → 62%**, lab accuracy **99.3%**. | PyTorch · EfficientNet-B0 · Grad-CAM · Streamlit |
 | 🤖 [**RAG Document Assistant**](https://github.com/abdullah-asasfeh/rag-document-assistant) | Chat with your own PDF/TXT files. Retrieves the most relevant passages and generates grounded answers. | Hugging Face · Sentence-Transformers · ChromaDB · FLAN-T5 · Streamlit |
 | 🇯🇴 [**Jordan Labour Market Dashboard**](https://github.com/abdullah-asasfeh/jordan-labour-market-dashboard) | Interactive analysis of unemployment in Jordan (2017–2025) from official DoS survey data — 27K rows, 50+ DAX measures. | Power BI · Power Query · DAX · Python |
@@ -20,7 +21,7 @@ I build end-to-end AI applications — from data cleaning and model training to 
 
 ### 🛠️ Tech Stack
 
-**AI / ML:** PyTorch · Transfer Learning · CNNs · Grad-CAM · Hugging Face Transformers · Sentence-Transformers · RAG · Vector Databases (ChromaDB)  
+**AI / ML:** PyTorch · scikit-learn · Transfer Learning · CNNs · Grad-CAM · Hugging Face Transformers · Sentence-Transformers · RAG · Vector Databases (ChromaDB)  
 **Data:** Python · Pandas · NumPy · SQL · Power BI · DAX · Power Query · Excel  
 **Apps & Tools:** Streamlit · Git & GitHub · Jupyter · HTML/CSS  
 **Networking:** Studying for Cisco CCNA
